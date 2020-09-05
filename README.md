@@ -1,4 +1,5 @@
 # Playground
+Alice Li is taking:
 AC295
 AC207
 STAT236
